@@ -3,7 +3,7 @@
 ![cover image for farmeroad.com](zombie.png)
 
 #  🧟‍♂️  HI👋🏻 WEBMASTER OF  🧟‍♂️ 
-#  🧟‍♂️  **ZOMBIEONLINEENTERTAINMENT.COM**  🧟‍♂️
+#  🧟‍♂️  **ZOMBIE ONLINE ENTERTAINMENT (.COM)**  🧟‍♂️
 
 #### You can visit the website here [zombieonlineentertainment.com](https://zombieonlineentertainment.com/)
 
