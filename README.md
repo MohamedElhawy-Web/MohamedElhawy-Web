@@ -2,8 +2,7 @@
 <!-- this is the cover image -->
 ![cover image for farmeroad.com](zombie.png)
 
-#  🧟‍♂️  HI👋🏻 THIS IS WEBMASTER OF  🧟‍♂️
-#  🧟‍♂️  OF 🧟‍♂️
+#  🧟‍♂️  HI👋🏻 THIS IS WEBMASTER OF  🧟‍♂️ 
 #  🧟‍♂️  **ZOMBIEONLINEENTERTAINMENT.COM**  🧟‍♂️
 
 #### You can visit the website here [zombieonlineentertainment.com](https://zombieonlineentertainment.com/)
