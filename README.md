@@ -7,8 +7,8 @@
 #### You can visit the website here [zombieonlineentertainment.com](https://zombieonlineentertainment.com/)
 
 ## 🪦  Purpose of zombie online entertainment (.com):  🪦
-##   To research the power of WWW as the solution for cross platforming
-##   Developing Digital Worlds(Metaverses) on the Web 
+         To research the power of WWW as the solution for cross platforming
+         Developing Digital Worlds(Metaverses) on the Web 
  
 
 1. Metaverse Library and Engine - Brain Engine
