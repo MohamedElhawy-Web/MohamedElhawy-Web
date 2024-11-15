@@ -2,13 +2,13 @@
 <!-- this is the cover image -->
 ![cover image for farmeroad.com](zombie.png)
 
-#  🧟‍♂️  HI👋🏻 WEBMASTER OF ZOMBIE ONLINE ENTERTAINMENT  🧟‍♂️
+#  🧟‍♂️  HELLO WORLD👋🏻, WEBMASTER OF ZOMBIE ONLINE ENTERTAINMENT HERE...  🧟‍♂️
 
 #### You can visit the website here [zombieonlineentertainment.com](https://zombieonlineentertainment.com/)
 
 ## 🪦  Purpose of zombie online entertainment (.com):  🪦
          
-         ⚫ To research the power of WWW as the solution for cross platforming
+         ⚫ To research and harvest the full power and potential of WWW as the solution for Everything.
          
          ⚫ Developing Digital Worlds(Metaverses) on the Web 
  
@@ -20,7 +20,7 @@
       - [ ] Central place of all the research and Inventions
   
 3. Metaverse - Zombie World Online
-      - [ ] World build on the Web.
+      - [ ] World built on the Web.
             
 
 > [!WARNING]
